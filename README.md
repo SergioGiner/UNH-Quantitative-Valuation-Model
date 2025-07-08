@@ -4,6 +4,7 @@ This repository supports my skills in financial valuation and quantitative analy
 
 ## Files
 •⁠  ⁠UNH Research: A detailed report analyzing UNH’s market, competitive landscape, financial performance, and valuation. It includes Discounted Cash Flow (DCF), Monte Carlo simulations, Value at Risk (VaR), and peer multiples, estimating a target price of $426 (38% upside) with visualizations generated in Python.
+
 •⁠  ⁠UNH Quantitative Valuation Model: Python script (using pandas, numpy, yfinance, seaborn) implementing Monte Carlo simulations, DCF, VaR, and multiples calculations to support the report’s findings.
 
 ## Purpose
